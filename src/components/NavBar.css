@@ -1,14 +1,28 @@
 .navbar {
+  padding-left: 50px;
+  padding-right: 30px;
+}
+
+.navbarBg {
   background-color: #ffffff1a;
 }
 
 .nav-link{
 color: #747474 !important;
+padding-right: 20px !important;
+}
+
+.nav-link:hover {
+  color: rgba(255, 255, 255, 0.699) !important;
 }
 
 .navbar-brand{
   color: #747474 !important;
   font-size: 15px !important;
+}
+
+.navbar-brand:hover {
+  color: rgba(255, 255, 255, 0.699) !important;
 }
 
 .btn {
@@ -23,6 +37,8 @@ color: #747474 !important;
   background: rgba(255, 255, 255, 0.616) !important;
 }
 
-/* .collapse {
-  background: white !important;
-} */
+@media all and (min-width: 767px) {
+  .navbar {
+    background-color: #00000000
+  }
+}
