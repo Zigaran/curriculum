@@ -1,16 +1,28 @@
-.navbar .container .navbar-brand {
-  color: #747474 !important;
-  font-size: 0.8571em;
-  font-weight: normal !important;
-}
-
-.navbar .container .navbar-nav .nav-link {
-  color: #747474 !important;
-    padding: 0.5rem 0.7rem;
-}
-
 .navbar {
-  padding-top: 10px;
+  background-color: #ffffff1a;
 }
 
+.nav-link{
+color: #747474 !important;
+}
 
+.navbar-brand{
+  color: #747474 !important;
+  font-size: 15px !important;
+}
+
+.btn {
+  background: #74747496;
+}
+
+.btn:hover {
+  background: rgb(133, 133, 133)
+}
+
+.btn:active {
+  background: rgba(255, 255, 255, 0.616) !important;
+}
+
+/* .collapse {
+  background: white !important;
+} */

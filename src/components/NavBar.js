@@ -1,37 +1,39 @@
 import React, { Component } from "react";
-import "./NavBar.css";
+import './NavBar.css'
 
 class NavBar extends Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-sm navbar-light">
-        <div className="container">
-          <a href="#" className="navbar-brand">ZIGARAN ELIAS</a>
-          <button className="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
-            <span className="navbar-toggler-icon" />
-          </button>
-          <div className="collapse navbar-collapse" id="navbarMenu">
-            <ul className="navbar-nav ml-auto">
-              <li className="nav-item">
-                <a href="#" className="nav-link">About </a>
-              </li>
-              <li className="nav-item">
-                <a href="#" className="nav-link">Education</a>
-              </li>
-              <li className="nav-item">
-                <a href="#" className="nav-link">Skills </a>
-              </li>
-              <li className="nav-item">
-                <a href="#" className="nav-link">Portfolio</a>
-              </li>
-              <li className="nav-item">
-                <a href="#" className="nav-link">Off-Topic</a>
-              </li>
-              <li className="nav-item">
-                <a href="#" className="nav-link">Contact</a>
-              </li>
-            </ul>
-          </div>
+      <nav class="navbar navbar-expand-md navbar-dark">
+        <a class="navbar-brand" href="#">ZIGARAN ELIAS</a>
+
+        <button class="btn btn-sm btn-outline-secondary navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <ul class="navbar-nav">
+
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Education</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Skills</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Off-Topic</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>
+
+
+          </ul>
         </div>
       </nav>
     );
