@@ -1,0 +1,16 @@
+.navbar .container .navbar-brand {
+  color: #747474 !important;
+  font-size: 0.8571em;
+  font-weight: normal !important;
+}
+
+.navbar .container .navbar-nav .nav-link {
+  color: #747474 !important;
+    padding: 0.5rem 0.7rem;
+}
+
+.navbar {
+  padding-top: 10px;
+}
+
+
