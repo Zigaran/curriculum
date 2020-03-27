@@ -10,6 +10,7 @@
 .nav-link{
 color: #747474 !important;
 padding-right: 20px !important;
+text-shadow: 2px 2px 5px black !important;
 }
 
 .nav-link:hover {
@@ -19,6 +20,7 @@ padding-right: 20px !important;
 .navbar-brand{
   color: #747474 !important;
   font-size: 15px !important;
+  text-shadow: 2px 2px 5px black !important;
 }
 
 .navbar-brand:hover {
@@ -26,7 +28,7 @@ padding-right: 20px !important;
 }
 
 .btn {
-  background: #74747496;
+  background: #74747496 !important;
 }
 
 .btn:hover {
