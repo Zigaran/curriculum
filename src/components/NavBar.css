@@ -29,10 +29,11 @@ text-shadow: 2px 2px 5px black !important;
 
 .btn {
   background: #74747496 !important;
+  font-size: 16px !important;
 }
 
 .btn:hover {
-  background: rgb(133, 133, 133)
+  background: rgb(133, 133, 133) !important;
 }
 
 .btn:active {

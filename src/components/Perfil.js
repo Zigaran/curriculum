@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import "./Perfil.css";
 import profilePic from '../images/profilePic.png';
+import linkedinPic from '../images/signo-linkedin.png';
+import gitPic from '../images/logotipo-de-github.png';
+import instaPic from '../images/instagram.png';
 
 class Perfil extends Component {
     render() {
@@ -15,8 +18,20 @@ class Perfil extends Component {
                     <h6 className="desc">ENGINEERING STUDENT, FRONTEND DEVELOPER, PIANIST</h6>
                 </div>
 
-                <div className="">
-                    <button type="button" className="btn-dark btn-lg">Download CV</button>
+                <div className="download">
+                    <button type="button" className="mybtn btn btn-lg">Download CV</button>
+                </div>
+
+                <div className="socialNetworks">
+                    <img className="icon" src={linkedinPic}></img>
+                    <img className="icon" src={gitPic}></img>
+                    <img className="icon" src={instaPic}></img>
+                </div>
+
+                <div class="caja">
+                    <div class="chevron"></div>
+                    <div class="chevron"></div>
+                    <div class="chevron"></div>
                 </div>
             </div>
         );
