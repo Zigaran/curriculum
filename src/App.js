@@ -4,6 +4,7 @@ import NavBar from './components/NavBar.js';
 import Perfil from './components/Perfil';
 import About from './components/About';
 
+
 function App() {
   return (
     <div className="App">
@@ -17,7 +18,15 @@ function App() {
       </div>
 
       <div className="aboutContainer">
-        <About />
+        <div className="aboutDescription" id="about">
+          <About />
+        </div>
+      </div>
+
+      <div className="">
+        <div className="aboutDescription">
+          <About />
+        </div>
       </div>
 
     </div >

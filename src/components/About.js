@@ -1,11 +1,21 @@
 import React, { Component } from 'react';
-import '../node_modules/aos/dist/aos.css';
+import '/home/natan/Documentos/repositorios/mycv/node_modules/aos/dist/aos.css';
 import './About.css';
+import AOS from 'aos';
 
 class About extends Component {
+    constructor(props, context) {
+        super(props, context);
+        AOS.init();
+    }
+
+    componentWillReceiveProps() {
+        AOS.refresh();
+    }
+
     render() {
         return (
-            <div className="about" data-aos="fade-up">
+            <div className="about" data-aos="fade-up" data-aos-offset="400">
                 <div className="aboutDesc paddingDescBlock">
                     <h4 className="title">
                         About
