@@ -1,0 +1,28 @@
+.about {
+    box-shadow: 0px 0px 50px 1px black;
+    color: white;
+    display:flex;
+    text-shadow: 2px 2px 5px black;
+}
+
+.aboutDesc {
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    width: 50%;
+}
+
+.basicInfo {
+ width: 50%;
+}
+
+.paddingDescBlock {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.title {
+    font-weight: bold;
+}
+

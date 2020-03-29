@@ -2,17 +2,22 @@ import React from 'react';
 import "./App.css";
 import NavBar from './components/NavBar.js';
 import Perfil from './components/Perfil';
+import About from './components/About';
 
 function App() {
   return (
     <div className="App">
 
-      <div className="">
+      <div className="stickyNavbar">
         <NavBar />
       </div>
 
       <div className="profile">
         <Perfil />
+      </div>
+
+      <div className="aboutContainer">
+        <About />
       </div>
 
     </div >

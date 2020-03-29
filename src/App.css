@@ -1,0 +1,11 @@
+.stickyNavbar {
+    display:block;
+    position: sticky;
+    top: 0px;
+}
+
+.aboutContainer {
+    margin-left: 11%;
+    margin-right: 11%;
+
+}

@@ -28,10 +28,10 @@ class Perfil extends Component {
                     <img className="icon" src={instaPic}></img>
                 </div>
 
-                <div class="caja">
-                    <div class="chevron"></div>
-                    <div class="chevron"></div>
-                    <div class="chevron"></div>
+                <div className="caja">
+                    <div className="chevron"></div>
+                    <div className="chevron"></div>
+                    <div className="chevron"></div>
                 </div>
             </div>
         );
