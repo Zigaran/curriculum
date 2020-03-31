@@ -23,9 +23,18 @@ class Perfil extends Component {
                 </div>
 
                 <div className="socialNetworks">
-                    <img className="icon" src={linkedinPic}></img>
-                    <img className="icon" src={gitPic}></img>
-                    <img className="icon" src={instaPic}></img>
+                    <a href="https://www.linkedin.com/in/zigaran/" target="_blank">
+                        <img className="icon" src={linkedinPic} alt="LinkedIn" />
+                    </a>
+
+                    <a href="https://github.com/Zigaran" target="_blank">
+                        <img className="icon" src={gitPic} alt="Github" />
+                    </a>
+
+                    <a href="https://www.instagram.com/eliasnziga/" target="_blank">
+                        <img className="icon" src={instaPic} alt="Instagram" />
+                    </a>
+
                 </div>
 
                 <div className="caja">
