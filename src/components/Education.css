@@ -1,0 +1,37 @@
+.about {
+    display: flex;
+    box-shadow: 0px 0px 50px 1px black;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+.rspnsv {
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.width {
+    width: 50%;
+}
+
+@media all and (max-width: 990px) {
+    .width {
+       width: 100%;
+    } 
+
+    .rspnsv {
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+}

@@ -1,16 +1,29 @@
 .stickyNavbar {
     display:block;
     position: sticky;
+    z-index: 500;
     top: 0px;
 }
 
-.aboutDescription {
+.bloque {
     margin-left: 11%;
     margin-right: 11%;
-
+    margin-bottom: 150px;
+    margin-top: 150px;
 }
 
-.aboutContainer {
+.bloque-education {
+    margin-left: 11%;
+    margin-right: 11%;
     margin-bottom: 150px;
-    margin-top: 100px;
+    margin-top: 30px;
+}
+
+.section {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px black;
 }

@@ -1,36 +1,54 @@
-import React from 'react';
+import React, { Component } from "react";
 import "./App.css";
 import NavBar from './components/NavBar.js';
 import Perfil from './components/Perfil';
 import About from './components/About';
+import Education from './components/Education';
+import AOS from 'aos';
 
 
-function App() {
-  return (
-    <div className="App">
+class App extends Component {
+  constructor(props, context) {
+    super();
+    AOS.init();
+  }
 
-      <div className="stickyNavbar">
-        <NavBar />
-      </div>
+  componentWillReceiveProps() {
+    AOS.refresh();
+  }
 
-      <div className="profile">
-        <Perfil />
-      </div>
+  render() {
+    return (
+      <div className="App">
 
-      <div className="aboutContainer">
-        <div className="aboutDescription" id="about">
+        <div className="stickyNavbar">
+          <NavBar />
+        </div>
+
+        <div className="profile" id="perfil">
+          <Perfil />
+        </div>
+
+
+        <div className="bloque" id="about" data-aos="fade-up" data-aos-offset="300" data-aos-duration="500">
           <About />
         </div>
-      </div>
 
-      <div className="">
-        <div className="aboutDescription">
-          <About />
+        <div className="" id="education" data-aos="fade-up" data-aos-offset="190" data-aos-duration="500">
+
+          <div className="" id="education">
+            <h4 className="section">Education</h4>
+          </div>
+
+          <div className="bloque-education">
+            <Education />
+          </div>
+
         </div>
-      </div>
 
-    </div >
-  );
+      </div >
+    );
+  }
 }
 
 export default App;

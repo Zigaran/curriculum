@@ -1,30 +1,35 @@
 .navbar {
   padding-left: 50px;
   padding-right: 30px;
+  color: #747474 !important;
 }
 
 .navbarBg {
   background-color: #ffffff1a;
 }
 
+.principal {
+  padding-right: 50% !important;
+}
+
 .nav-link{
-color: #747474 !important;
 padding-right: 20px !important;
 text-shadow: 2px 2px 5px black !important;
 }
 
 .nav-link:hover {
-  color: rgba(255, 255, 255, 0.699) !important;
+  color: white !important;
+  cursor: pointer;
 }
 
 .navbar-brand{
-  color: #747474 !important;
   font-size: 15px !important;
   text-shadow: 2px 2px 5px black !important;
+  cursor: pointer;
 }
 
 .navbar-brand:hover {
-  color: rgba(255, 255, 255, 0.699) !important;
+  color: white !important;
 }
 
 .btn {
