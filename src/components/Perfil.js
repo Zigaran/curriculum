@@ -4,6 +4,7 @@ import profilePic from '../images/profilePic.png';
 import linkedinPic from '../images/signo-linkedin.png';
 import gitPic from '../images/logotipo-de-github.png';
 import instaPic from '../images/instagram.png';
+import cv from '../images/Zigaran_Elias-CV.pdf';
 
 class Perfil extends Component {
     render() {
@@ -18,9 +19,10 @@ class Perfil extends Component {
                     <h6 className="desc">ENGINEERING STUDENT, FRONTEND DEVELOPER, PIANIST</h6>
                 </div>
 
-                <div className="download">
+
+                <a href={cv} className="download" download>
                     <button type="button" className="mybtn btn btn-lg">Download CV</button>
-                </div>
+                </a>
 
                 <div className="socialNetworks">
                     <a href="https://www.linkedin.com/in/zigaran/" target="_blank">

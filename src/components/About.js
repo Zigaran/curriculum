@@ -3,7 +3,9 @@ import '/home/natan/Documentos/repositorios/mycv/node_modules/aos/dist/aos.css';
 import './About.css';
 
 const age = 23;
-
+const email = "zigaraneliasnatan@gmail.com";
+const adress = "Saavedra 656, Resistencia, Arg.";
+const language = "Spanish, English";
 
 class About extends Component {
     render() {
@@ -25,19 +27,26 @@ class About extends Component {
 
                     <div className="descBasicInfo">
 
-                        <div className="descripciones margin-rght">
-                            <a className="title pad-btm">AGE:</a>
-                            <a className="title pad-btm">EMAIL:</a>
-                            <a className="title pad-btm responsive-pad">ADRESS:</a>
-                            <a className="title">LANGUAGE:</a>
+                        <div className="box-data">
+                            <a className="title padding">AGE:</a>
+                            <a>{age}</a>
                         </div>
 
-                        <div className="descripciones">
-                            <a className="pad-btm">{age}</a>
-                            <a className="pad-btm">zigaraneliasnatan@gmail.com</a>
-                            <a className="pad-btm">Saavedra 656, Resistencia, Arg.</a>
-                            <a className="pad-btm">Spanish, English</a>
+                        <div className="box-data">
+                            <a className="title padding">EMAIL:</a>
+                            <a>{email}</a>
                         </div>
+
+                        <div className="box-data">
+                            <a className="title padding">ADRESS:</a>
+                            <a>{adress}</a>
+                        </div>
+
+                        <div className="box-data-whitout-pad">
+                            <a className="title padding">LANGUAGE:</a>
+                            <a>{language}</a>
+                        </div>
+
                     </div>
 
                 </div>

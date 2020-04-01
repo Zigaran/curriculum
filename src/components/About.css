@@ -18,20 +18,7 @@
 
 .descBasicInfo{
     display:flex;
-    flex-direction: row;
-}
-
-.descripciones {
-    display:flex;
     flex-direction: column;
-}
-
-.pad-btm {
-    padding-bottom: 20px;
-}
-
-.margin-rght {
-    margin-right: 15%;
 }
 
 .paddingDescBlock {
@@ -42,13 +29,20 @@ padding: 20px;
     font-weight: bold;
 }
 
-
-@media all and (max-width: 1074px) {
-    .responsive-pad {
-        padding-bottom: 46px;
-    }
+.box-data{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
 }
 
+.box-data-whitout-pad {
+    display: flex;
+    flex-direction: row;
+}
+
+.padding {
+    flex-basis: 30%;
+}
 
 @media all and (max-width: 990px) {
     .about {
@@ -67,20 +61,10 @@ padding: 20px;
         width: 90%;
         height: 50%;
     }
-    
-    .responsive-pad {
-        padding-bottom: 22px;
-    }
 }
 
-@media all and (max-width: 603px) {
-    .responsive-pad {
-        padding-bottom: 46px;
-    }
+@media all and (max-width: 520px) {
+    .box-data, .box-data-whitout-pad {
+        flex-direction: column;
 }
-
-@media all and (max-width: 530px) {
-    .margin-rght {
-        margin-right: 8%;
-    }
 }
