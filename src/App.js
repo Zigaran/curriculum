@@ -4,10 +4,12 @@ import NavBar from './components/NavBar.js';
 import Perfil from './components/Perfil';
 import About from './components/About';
 import Education from './components/Education';
+import Skills from './components/Skills';
 import AOS from 'aos';
 
 
-class App extends Component {
+
+export default class YourApp extends Component {
   constructor(props, context) {
     super();
     AOS.init();
@@ -40,10 +42,20 @@ class App extends Component {
             <h4 className="section">Education</h4>
           </div>
 
-          <div className="bloque-education">
+          <div className="bloque-standard">
             <Education />
           </div>
 
+        </div>
+
+        <div className="" id="skills" data-aos="fade-up" data-aos-offset="190" data-aos-duration="500" >
+          <div className="">
+            <h4 className="section">Skills</h4>
+          </div>
+
+          <div className="bloque-standard">
+            <Skills />
+          </div>
         </div>
 
       </div >
@@ -51,4 +63,4 @@ class App extends Component {
   }
 }
 
-export default App;
+
