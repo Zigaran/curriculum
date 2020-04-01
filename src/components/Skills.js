@@ -69,8 +69,8 @@ class Skills extends Component {
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(0, 2, 107, 0.315)',
-                                    color: 'blue'
+                                    trailColor: 'rgba(255, 255, 255, 0.226)',
+                                    color: 'rgba(255, 255, 255, 0.575)'
                                 },
 
 
@@ -85,8 +85,8 @@ class Skills extends Component {
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(0, 2, 107, 0.315)',
-                                    color: 'blue'
+                                    trailColor: 'rgba(255, 255, 255, 0.226)',
+                                    color: 'rgba(255, 255, 255, 0.575)'
                                 },
 
 
@@ -101,8 +101,8 @@ class Skills extends Component {
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(0, 2, 107, 0.315)',
-                                    color: 'blue'
+                                    trailColor: 'rgba(255, 255, 255, 0.226)',
+                                    color: 'rgba(255, 255, 255, 0.575)'
                                 },
 
 
