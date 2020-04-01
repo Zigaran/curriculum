@@ -8,15 +8,15 @@ class Skills extends Component {
         return (
             <div className="about">
                 <div className="aboutDesc paddingDescBlock">
-                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="125" data-aos-duration="1000">
+                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1000">
                         <h5>HTML</h5>
                         <Progress className="opacity" percent={70} status="active"
                             theme={{
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(0, 2, 107, 0.315)',
-                                    color: 'blue'
+                                    trailColor: 'rgba(99, 101, 168, 0.315)',
+                                    color: 'rgba(0, 0, 255, 0.7)'
                                 },
 
 
@@ -24,15 +24,15 @@ class Skills extends Component {
                         />
                     </div>
 
-                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="125" data-aos-duration="1100">
+                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1100">
                         <h5>CSS</h5>
                         <Progress className="opacity" percent={75} status="active"
                             theme={{
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(0, 2, 107, 0.315)',
-                                    color: 'blue'
+                                    trailColor: 'rgba(99, 101, 168, 0.315)',
+                                    color: 'rgba(0, 0, 255, 0.7)'
                                 },
 
 
@@ -40,15 +40,15 @@ class Skills extends Component {
                         />
                     </div>
 
-                    <div className="" data-aos="zoom-in" data-aos-offset="125" data-aos-duration="1200">
+                    <div className="" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1200">
                         <h5>JAVASCRIPT</h5>
                         <Progress className="opacity" percent={80} status="active"
                             theme={{
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(0, 2, 107, 0.315)',
-                                    color: 'blue'
+                                    trailColor: 'rgba(99, 101, 168, 0.315)',
+                                    color: 'rgba(0, 0, 255, 0.7)'
                                 },
 
 
@@ -62,15 +62,15 @@ class Skills extends Component {
 
                 <div className="aboutDesc paddingDescBlock">
 
-                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="125" data-aos-duration="1050">
+                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1050">
                         <h5>REACT.JS</h5>
                         <Progress className="opacity" percent={70} status="active"
                             theme={{
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(255, 255, 255, 0.226)',
-                                    color: 'rgba(255, 255, 255, 0.575)'
+                                    trailColor: 'rgba(99, 101, 168, 0.315)',
+                                    color: 'rgba(0, 0, 255, 0.7)'
                                 },
 
 
@@ -78,15 +78,15 @@ class Skills extends Component {
                         />
                     </div>
 
-                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="125" data-aos-duration="1150">
+                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1150">
                         <h5>UI/UX DESIGN</h5>
                         <Progress className="opacity" percent={65} status="active"
                             theme={{
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(255, 255, 255, 0.226)',
-                                    color: 'rgba(255, 255, 255, 0.575)'
+                                    trailColor: 'rgba(99, 101, 168, 0.315)',
+                                    color: 'rgba(0, 0, 255, 0.7)'
                                 },
 
 
@@ -94,15 +94,15 @@ class Skills extends Component {
                         />
                     </div>
 
-                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="125" data-aos-duration="1250">
+                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1250">
                         <h5>AMBITION TO LEARN</h5>
                         <Progress className="opacity" percent={100} status="active"
                             theme={{
 
                                 active: {
                                     symbol: [],
-                                    trailColor: 'rgba(255, 255, 255, 0.226)',
-                                    color: 'rgba(255, 255, 255, 0.575)'
+                                    trailColor: 'rgba(99, 101, 168, 0.315)',
+                                    color: 'rgba(0, 0, 255, 0.7)'
                                 },
 
 

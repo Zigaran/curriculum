@@ -32,7 +32,7 @@ export default class YourApp extends Component {
         </div>
 
 
-        <div className="bloque" id="about" data-aos="fade-up" data-aos-offset="300" data-aos-duration="500">
+        <div className="bloque" id="about" data-aos="fade-up" data-aos-offset="230" data-aos-duration="500">
           <About />
         </div>
 
