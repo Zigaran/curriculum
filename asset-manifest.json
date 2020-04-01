@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/curriculum/static/css/main.be1ffde6.chunk.css",
-    "main.js": "/curriculum/static/js/main.de80e31c.chunk.js",
-    "main.js.map": "/curriculum/static/js/main.de80e31c.chunk.js.map",
+    "main.css": "/curriculum/static/css/main.71bca516.chunk.css",
+    "main.js": "/curriculum/static/js/main.27a68d22.chunk.js",
+    "main.js.map": "/curriculum/static/js/main.27a68d22.chunk.js.map",
     "runtime-main.js": "/curriculum/static/js/runtime-main.4e046246.js",
     "runtime-main.js.map": "/curriculum/static/js/runtime-main.4e046246.js.map",
     "static/css/2.4707e12a.chunk.css": "/curriculum/static/css/2.4707e12a.chunk.css",
-    "static/js/2.d0deaafa.chunk.js": "/curriculum/static/js/2.d0deaafa.chunk.js",
-    "static/js/2.d0deaafa.chunk.js.map": "/curriculum/static/js/2.d0deaafa.chunk.js.map",
+    "static/js/2.36d3337d.chunk.js": "/curriculum/static/js/2.36d3337d.chunk.js",
+    "static/js/2.36d3337d.chunk.js.map": "/curriculum/static/js/2.36d3337d.chunk.js.map",
     "index.html": "/curriculum/index.html",
-    "precache-manifest.47d8fcfaa6b5531ed013661bf05a6384.js": "/curriculum/precache-manifest.47d8fcfaa6b5531ed013661bf05a6384.js",
+    "precache-manifest.3d009cb69fb4c5b49a5732df7e250240.js": "/curriculum/precache-manifest.3d009cb69fb4c5b49a5732df7e250240.js",
     "service-worker.js": "/curriculum/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/curriculum/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.be1ffde6.chunk.css.map": "/curriculum/static/css/main.be1ffde6.chunk.css.map",
-    "static/js/2.d0deaafa.chunk.js.LICENSE.txt": "/curriculum/static/js/2.d0deaafa.chunk.js.LICENSE.txt",
+    "static/css/main.71bca516.chunk.css.map": "/curriculum/static/css/main.71bca516.chunk.css.map",
+    "static/js/2.36d3337d.chunk.js.LICENSE.txt": "/curriculum/static/js/2.36d3337d.chunk.js.LICENSE.txt",
+    "static/media/Zigaran_Elias-CV.pdf": "/curriculum/static/media/Zigaran_Elias-CV.71032ea4.pdf",
     "static/media/instagram.png": "/curriculum/static/media/instagram.03f20376.png",
     "static/media/logotipo-de-github.png": "/curriculum/static/media/logotipo-de-github.93ab66b0.png",
     "static/media/profilePic.png": "/curriculum/static/media/profilePic.62828906.png"
@@ -21,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.4e046246.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.d0deaafa.chunk.js",
-    "static/css/main.be1ffde6.chunk.css",
-    "static/js/main.de80e31c.chunk.js"
+    "static/js/2.36d3337d.chunk.js",
+    "static/css/main.71bca516.chunk.css",
+    "static/js/main.27a68d22.chunk.js"
   ]
 }
