@@ -5,7 +5,9 @@ import Perfil from './components/Perfil';
 import About from './components/About';
 import Education from './components/Education';
 import Skills from './components/Skills';
+import Portfolio from './components/Portfolio';
 import AOS from 'aos';
+
 
 
 
@@ -21,26 +23,53 @@ export default class YourApp extends Component {
 
   render() {
     return (
+
       <div className="App">
+
+
+
+        {/* INICIO BARRA DE NAVEGACION */}
 
         <div className="stickyNavbar">
           <NavBar />
         </div>
 
+        {/* FIN BARRA DE NAVEGACION */}
+
+
+
+
+
+        {/* INICIO PERFIL PRINCIPAL */}
+
         <div className="profile" id="perfil">
           <Perfil />
         </div>
 
+        {/* FIN PERFIL PRINCIPAL */}
+
+
+
+
+        {/* INICIO SECCIÓN "ABOUT" */}
 
         <div className="bloque" id="about" data-aos="fade-up" data-aos-offset="230" data-aos-duration="500">
           <About />
         </div>
 
+        {/* FIN SECCION "ABOUT" */}
+
+
+
+
+
+        {/* INICIO SECCION "EDUCACIÓN" */}
+
         <div className="" id="education" data-aos="fade-up" data-aos-offset="190" data-aos-duration="500">
 
-          <div className="" id="education">
-            <h4 className="section">Education</h4>
-          </div>
+
+          <h4 className="section">Education</h4>
+
 
           <div className="bloque-standard">
             <Education />
@@ -48,15 +77,44 @@ export default class YourApp extends Component {
 
         </div>
 
+        {/* FIN SECCION "EDUCACIÓN" */}
+
+
+
+
+
+        {/* INICIO SECCION "SKILLS" */}
+
         <div className="" id="skills" data-aos="fade-up" data-aos-offset="190" data-aos-duration="500" >
-          <div className="">
-            <h4 className="section">Skills</h4>
-          </div>
+
+          <h4 className="section">Skills</h4>
+
 
           <div className="bloque-standard">
             <Skills />
           </div>
         </div>
+
+        {/* FIN SECCION "SKILLS" */}
+
+
+
+
+
+        {/* INICIO SECCION "PORTFOLIO" */}
+
+        <div className="" id="portfolio" data-aos="fade-up" data-aos-offset="190" data-aos-duration="500" >
+
+          <h4 className="section">Portfolio</h4>
+
+          <div className="bloque-standard portfolio-section">
+            <Portfolio />
+          </div>
+        </div>
+
+
+        {/* FIN SECCION "PORTFOLIO" */}
+
 
       </div >
     );

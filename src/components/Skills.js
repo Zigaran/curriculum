@@ -94,7 +94,7 @@ class Skills extends Component {
                         />
                     </div>
 
-                    <div className="box-progress" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1250">
+                    <div className="" data-aos="zoom-in" data-aos-offset="110" data-aos-duration="1250">
                         <h5>AMBITION TO LEARN</h5>
                         <Progress className="opacity" percent={100} status="active"
                             theme={{

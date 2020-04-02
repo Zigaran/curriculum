@@ -32,10 +32,10 @@ class NavBar extends Component {
               <Link activeClass="active" to="about" spy={true} smooth={true} offset={-180} duration={1500} className="nav-link" >About</Link>
             </li>
             <li className="nav-item">
-              <Link activeClass="active" to="education" spy={true} smooth={true} offset={-180} duration={1400} className="nav-link" >Education</Link>
+              <Link activeClass="active" to="education" spy={true} smooth={true} offset={-180} duration={1800} className="nav-link" >Education</Link>
             </li>
             <li className="nav-item">
-              <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-180} duration={1300} className="nav-link" >Skills</Link>
+              <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-130} duration={2200} className="nav-link" >Skills</Link>
             </li>
             <li className="nav-item">
               <Link activeClass="active" to="portfolio" spy={true} smooth={true} offset={-70} duration={1000} className="nav-link" >Portfolio</Link>
