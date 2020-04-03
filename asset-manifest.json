@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/curriculum/static/css/main.122740d2.chunk.css",
-    "main.js": "/curriculum/static/js/main.f8814813.chunk.js",
-    "main.js.map": "/curriculum/static/js/main.f8814813.chunk.js.map",
+    "main.css": "/curriculum/static/css/main.7aee0891.chunk.css",
+    "main.js": "/curriculum/static/js/main.bfd1d488.chunk.js",
+    "main.js.map": "/curriculum/static/js/main.bfd1d488.chunk.js.map",
     "runtime-main.js": "/curriculum/static/js/runtime-main.4e046246.js",
     "runtime-main.js.map": "/curriculum/static/js/runtime-main.4e046246.js.map",
     "static/css/2.c0e46410.chunk.css": "/curriculum/static/css/2.c0e46410.chunk.css",
-    "static/js/2.a3550829.chunk.js": "/curriculum/static/js/2.a3550829.chunk.js",
-    "static/js/2.a3550829.chunk.js.map": "/curriculum/static/js/2.a3550829.chunk.js.map",
+    "static/js/2.2d7c96f0.chunk.js": "/curriculum/static/js/2.2d7c96f0.chunk.js",
+    "static/js/2.2d7c96f0.chunk.js.map": "/curriculum/static/js/2.2d7c96f0.chunk.js.map",
     "index.html": "/curriculum/index.html",
-    "precache-manifest.f113be73541f821b3f0a895f806a6ec9.js": "/curriculum/precache-manifest.f113be73541f821b3f0a895f806a6ec9.js",
+    "precache-manifest.9c7807657c497d95342ed46e5bea8ba6.js": "/curriculum/precache-manifest.9c7807657c497d95342ed46e5bea8ba6.js",
     "service-worker.js": "/curriculum/service-worker.js",
     "static/css/2.c0e46410.chunk.css.map": "/curriculum/static/css/2.c0e46410.chunk.css.map",
-    "static/css/main.122740d2.chunk.css.map": "/curriculum/static/css/main.122740d2.chunk.css.map",
-    "static/js/2.a3550829.chunk.js.LICENSE.txt": "/curriculum/static/js/2.a3550829.chunk.js.LICENSE.txt",
+    "static/css/main.7aee0891.chunk.css.map": "/curriculum/static/css/main.7aee0891.chunk.css.map",
+    "static/js/2.2d7c96f0.chunk.js.LICENSE.txt": "/curriculum/static/js/2.2d7c96f0.chunk.js.LICENSE.txt",
     "static/media/SimonSays.png": "/curriculum/static/media/SimonSays.c3183123.png",
     "static/media/Task-Manager.png": "/curriculum/static/media/Task-Manager.5ae9636c.png",
     "static/media/Thailand.png": "/curriculum/static/media/Thailand.804c1ac7.png",
     "static/media/Zigaran_Elias-CV.pdf": "/curriculum/static/media/Zigaran_Elias-CV.71032ea4.pdf",
     "static/media/instagram.png": "/curriculum/static/media/instagram.03f20376.png",
     "static/media/logotipo-de-github.png": "/curriculum/static/media/logotipo-de-github.93ab66b0.png",
-    "static/media/profilePic.png": "/curriculum/static/media/profilePic.62828906.png"
+    "static/media/profilePic.png": "/curriculum/static/media/profilePic.62828906.png",
+    "static/media/thai-square.png": "/curriculum/static/media/thai-square.075750fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4e046246.js",
     "static/css/2.c0e46410.chunk.css",
-    "static/js/2.a3550829.chunk.js",
-    "static/css/main.122740d2.chunk.css",
-    "static/js/main.f8814813.chunk.js"
+    "static/js/2.2d7c96f0.chunk.js",
+    "static/css/main.7aee0891.chunk.css",
+    "static/js/main.bfd1d488.chunk.js"
   ]
 }
