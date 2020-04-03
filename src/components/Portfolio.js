@@ -25,7 +25,10 @@ class Portfolio extends Component {
                     <div className="box-image" data-aos="zoom-in" data-aos-offset="150" data-aos-duration="1000">
                         <img className="image" src={Simon} />
                         <div class="overlay">
-                            <div class="text">Hello World</div>
+                            <div class="text">
+                                <h5 className="title">SIMON SAYS</h5>
+                                <h6 className="">Click <a href="https://zigaran.github.io/SimonDice/">here</a> to view on github</h6>
+                            </div>
                         </div>
                     </div>
 
@@ -35,7 +38,10 @@ class Portfolio extends Component {
                     <img className="image display-rectangle" src={Thai} />
                     <img className="image display-square" src={ThaiSquare} />
                     <div className="overlay over-width" >
-                        <div class="text">Hello World</div>
+                        <div class="text">
+                            <h5 className="title">THAILAND TOURISM</h5>
+                            <h6 className="">Click <a href="https://zigaran.github.io/TailandiaProject/">here</a> to view on github</h6>
+                        </div>
                     </div>
                 </div>
 

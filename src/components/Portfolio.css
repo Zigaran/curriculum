@@ -69,6 +69,14 @@
     -ms-transform: translate(-50%, -50%);
   }
 
+  a:link {
+      text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
+
 @media all and (max-width: 650px) {
     .row-or-column {
         flex-direction: column;
