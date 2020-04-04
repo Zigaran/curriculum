@@ -1,11 +1,12 @@
 import React, { Component } from "react";
 import "./App.css";
 import NavBar from './components/NavBar.js';
-import Perfil from './components/Perfil';
-import About from './components/About';
-import Education from './components/Education';
-import Skills from './components/Skills';
-import Portfolio from './components/Portfolio';
+import Perfil from './components/Perfil.js';
+import About from './components/About.js';
+import Education from './components/Education.js';
+import Skills from './components/Skills.js';
+import Portfolio from './components/Portfolio.js';
+import Offtopic from './components/Offtopic.js';
 import AOS from 'aos';
 
 
@@ -107,7 +108,7 @@ export default class YourApp extends Component {
 
           <h4 className="section">Portfolio</h4>
 
-          <div className="bloque-standard portfolio-section">
+          <div className="bloque-standard">
             <Portfolio />
           </div>
         </div>
@@ -115,6 +116,13 @@ export default class YourApp extends Component {
 
         {/* FIN SECCION "PORTFOLIO" */}
 
+
+
+
+        {/* INICIO SECCION "OFFTOPIC" */}
+        <div className="portfolio-section" id="offTopic">
+          <Offtopic />
+        </div>
 
       </div >
     );

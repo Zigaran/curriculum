@@ -78,6 +78,10 @@
   }
 
 @media all and (max-width: 650px) {
+    .portfolio {
+        margin-top: -20px;
+    }
+    
     .row-or-column {
         flex-direction: column;
     }
