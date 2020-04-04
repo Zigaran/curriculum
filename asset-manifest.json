@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/curriculum/static/css/main.4538ae22.chunk.css",
-    "main.js": "/curriculum/static/js/main.66836c05.chunk.js",
-    "main.js.map": "/curriculum/static/js/main.66836c05.chunk.js.map",
+    "main.css": "/curriculum/static/css/main.afc8a8e7.chunk.css",
+    "main.js": "/curriculum/static/js/main.72dd4e76.chunk.js",
+    "main.js.map": "/curriculum/static/js/main.72dd4e76.chunk.js.map",
     "runtime-main.js": "/curriculum/static/js/runtime-main.4e046246.js",
     "runtime-main.js.map": "/curriculum/static/js/runtime-main.4e046246.js.map",
     "static/css/2.c0e46410.chunk.css": "/curriculum/static/css/2.c0e46410.chunk.css",
-    "static/js/2.2d7c96f0.chunk.js": "/curriculum/static/js/2.2d7c96f0.chunk.js",
-    "static/js/2.2d7c96f0.chunk.js.map": "/curriculum/static/js/2.2d7c96f0.chunk.js.map",
+    "static/js/2.ccafd0e4.chunk.js": "/curriculum/static/js/2.ccafd0e4.chunk.js",
+    "static/js/2.ccafd0e4.chunk.js.map": "/curriculum/static/js/2.ccafd0e4.chunk.js.map",
     "index.html": "/curriculum/index.html",
-    "precache-manifest.1e902f232b0aaaeb94ed043bb9136fd5.js": "/curriculum/precache-manifest.1e902f232b0aaaeb94ed043bb9136fd5.js",
+    "precache-manifest.16109b909e75f440fba1e6f624716bf3.js": "/curriculum/precache-manifest.16109b909e75f440fba1e6f624716bf3.js",
     "service-worker.js": "/curriculum/service-worker.js",
     "static/css/2.c0e46410.chunk.css.map": "/curriculum/static/css/2.c0e46410.chunk.css.map",
-    "static/css/main.4538ae22.chunk.css.map": "/curriculum/static/css/main.4538ae22.chunk.css.map",
-    "static/js/2.2d7c96f0.chunk.js.LICENSE.txt": "/curriculum/static/js/2.2d7c96f0.chunk.js.LICENSE.txt",
+    "static/css/main.afc8a8e7.chunk.css.map": "/curriculum/static/css/main.afc8a8e7.chunk.css.map",
+    "static/js/2.ccafd0e4.chunk.js.LICENSE.txt": "/curriculum/static/js/2.ccafd0e4.chunk.js.LICENSE.txt",
+    "static/media/Off-Topic1.jpg": "/curriculum/static/media/Off-Topic1.e0a21ae0.jpg",
     "static/media/SimonSays.png": "/curriculum/static/media/SimonSays.c3183123.png",
     "static/media/Task-Manager.png": "/curriculum/static/media/Task-Manager.5ae9636c.png",
     "static/media/Thailand.png": "/curriculum/static/media/Thailand.804c1ac7.png",
@@ -26,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.4e046246.js",
     "static/css/2.c0e46410.chunk.css",
-    "static/js/2.2d7c96f0.chunk.js",
-    "static/css/main.4538ae22.chunk.css",
-    "static/js/main.66836c05.chunk.js"
+    "static/js/2.ccafd0e4.chunk.js",
+    "static/css/main.afc8a8e7.chunk.css",
+    "static/js/main.72dd4e76.chunk.js"
   ]
 }
