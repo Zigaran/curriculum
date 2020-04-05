@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import '/home/natan/Documentos/repositorios/mycv/node_modules/aos/dist/aos.css';
 import './Education.css';
 
-const age = 23;
-
-
 class Education extends Component {
     render() {
         return (

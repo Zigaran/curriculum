@@ -1,17 +1,45 @@
 import React, { Component } from 'react';
 import './Offtopic.css';
-import topicImg from '../images/Off-Topic1.jpg';
-import paralax from '/home/natan/Documentos/repositorios/mycv/node_modules/jquery-parallax.js/parallax.js';
 
 
 class Offtopic extends Component {
+    constructor() {
+        super();
+        this.handleScroll = this.handleScroll.bind(this);
+    }
 
-    componentDidMount = () => paralax;
+    componentDidMount() {
+        window.addEventListener('scroll', this.handleScroll);
+    };
+
+    componentWillUnmount() {
+        window.addEventListener('scroll', this.handleScroll);
+    };
+
+
+    handleScroll = e => {
+        var elemento = document.getElementById('este');
+        var obj = elemento.getBoundingClientRect();
+        console.log(obj.top);
+
+        let scrollPos = obj.top;
+        var posicion = scrollPos * 2;
+        elemento.style.backgroundPosition = posicion + 'px' + ' ' + posicion + 'px';
+
+        // console.log(elemento);
+    }
+
+
 
     render() {
         return (
-            <div className="parallax" data-parallax="scroll" data-speed="0.2" data-z-index="1" data-image-src={topicImg}>
-                <h1 className="centerText">UNO DOS TRES CUATRO CINCO SEIS SIETE OCHO NUEVE DIEZ ONCE DOCE TRECE CATORCE QUINSE DIECISEIS DIECISIETE</h1>
+            <div className="parallax" id="este" onScroll={this.handleScroll}>
+                {/* <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+                    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+                <script src="parallax.js"> </script> */}
+                <div className="bg-plane">
+                    <h1 className="centerText">OffTopic</h1>
+                </div>
             </div>
         );
     }

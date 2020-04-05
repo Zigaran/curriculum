@@ -1,14 +1,13 @@
-.parallax {  
-    display: flex;
-    height: 100vh;
-    background: transparent !important;
-    align-items: center;
-    justify-content: center;
+.parallax {
+    background: url('../images/avioncito.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 10000px;
 }
- 
+
 .centerText {
-    z-index: 1;
-    position: relative;
-    color: white;
     text-align: center;
+    color: white;
 }
+
