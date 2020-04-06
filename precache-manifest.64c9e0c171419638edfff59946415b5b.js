@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfe719047b76165ab7dae9dba86e03ac",
+    "revision": "76dd25748d27101c948c3237cf45952f",
     "url": "/curriculum/index.html"
   },
   {
-    "revision": "de2401e7275deebd9019",
+    "revision": "035490f48329fec7be37",
     "url": "/curriculum/static/css/2.c0e46410.chunk.css"
   },
   {
-    "revision": "144502370e5f23bc031c",
-    "url": "/curriculum/static/css/main.afc8a8e7.chunk.css"
+    "revision": "c83b74c3a3e5b7fc08aa",
+    "url": "/curriculum/static/css/main.f4ab4901.chunk.css"
   },
   {
-    "revision": "de2401e7275deebd9019",
-    "url": "/curriculum/static/js/2.ccafd0e4.chunk.js"
+    "revision": "035490f48329fec7be37",
+    "url": "/curriculum/static/js/2.5be5b6f2.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/curriculum/static/js/2.ccafd0e4.chunk.js.LICENSE.txt"
+    "url": "/curriculum/static/js/2.5be5b6f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "144502370e5f23bc031c",
-    "url": "/curriculum/static/js/main.72dd4e76.chunk.js"
+    "revision": "c83b74c3a3e5b7fc08aa",
+    "url": "/curriculum/static/js/main.71118164.chunk.js"
   },
   {
     "revision": "c4760d44694e62a78808",
     "url": "/curriculum/static/js/runtime-main.4e046246.js"
-  },
-  {
-    "revision": "e0a21ae071d85c0093ed2530297a1f10",
-    "url": "/curriculum/static/media/Off-Topic1.e0a21ae0.jpg"
   },
   {
     "revision": "c31831239c0b46e9e5e2d8fd663389d8",
@@ -54,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "93ab66b05386cdabf908a991a3e5d515",
     "url": "/curriculum/static/media/logotipo-de-github.93ab66b0.png"
+  },
+  {
+    "revision": "5dcd9435afe7bc48457b8964fc18795d",
+    "url": "/curriculum/static/media/plane6.5dcd9435.png"
   },
   {
     "revision": "62828906cda80aa0134af575561366ed",
