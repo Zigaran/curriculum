@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/curriculum/static/css/main.f7204109.chunk.css",
+    "main.css": "/curriculum/static/css/main.a8554614.chunk.css",
     "main.js": "/curriculum/static/js/main.1c7eab39.chunk.js",
     "main.js.map": "/curriculum/static/js/main.1c7eab39.chunk.js.map",
     "runtime-main.js": "/curriculum/static/js/runtime-main.4e046246.js",
@@ -9,10 +9,10 @@
     "static/js/2.5be5b6f2.chunk.js": "/curriculum/static/js/2.5be5b6f2.chunk.js",
     "static/js/2.5be5b6f2.chunk.js.map": "/curriculum/static/js/2.5be5b6f2.chunk.js.map",
     "index.html": "/curriculum/index.html",
-    "precache-manifest.b5941286acaee2f42cad482490e8858a.js": "/curriculum/precache-manifest.b5941286acaee2f42cad482490e8858a.js",
+    "precache-manifest.560ab2fb4f0380270cce87f0761b6f32.js": "/curriculum/precache-manifest.560ab2fb4f0380270cce87f0761b6f32.js",
     "service-worker.js": "/curriculum/service-worker.js",
     "static/css/2.c0e46410.chunk.css.map": "/curriculum/static/css/2.c0e46410.chunk.css.map",
-    "static/css/main.f7204109.chunk.css.map": "/curriculum/static/css/main.f7204109.chunk.css.map",
+    "static/css/main.a8554614.chunk.css.map": "/curriculum/static/css/main.a8554614.chunk.css.map",
     "static/js/2.5be5b6f2.chunk.js.LICENSE.txt": "/curriculum/static/js/2.5be5b6f2.chunk.js.LICENSE.txt",
     "static/media/SimonSays.png": "/curriculum/static/media/SimonSays.c3183123.png",
     "static/media/Task-Manager.png": "/curriculum/static/media/Task-Manager.5ae9636c.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.4e046246.js",
     "static/css/2.c0e46410.chunk.css",
     "static/js/2.5be5b6f2.chunk.js",
-    "static/css/main.f7204109.chunk.css",
+    "static/css/main.a8554614.chunk.css",
     "static/js/main.1c7eab39.chunk.js"
   ]
 }
