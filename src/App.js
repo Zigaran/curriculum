@@ -120,7 +120,9 @@ export default class YourApp extends Component {
 
 
         {/* INICIO SECCION "OFFTOPIC" */}
-        <div className="portfolio-section" id="offTopic">
+        <div className="" id="offTopic" data-aos="fade-up" data-aos-offset="190" data-aos-duration="500">
+
+          <h4 className="section">Off-Topic</h4>
           <Offtopic />
         </div>
 
