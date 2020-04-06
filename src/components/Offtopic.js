@@ -22,8 +22,9 @@ class Offtopic extends Component {
         var obj = elemento.getBoundingClientRect();
 
         let scrollPos = obj.top;
-        var posicion = scrollPos * 2;
-        elemento.style.backgroundPosition = posicion + 'px' + ' ' + posicion + 'px';
+        var posicion = scrollPos * 3;
+        // elemento.style.backgroundPosition = posicion + 'px' + ' ' + posicion + 'px'; 
+        elemento.style.backgroundPosition = '0 ' + posicion + 'px';
     }
 
 
