@@ -4,7 +4,7 @@ import profilePic from '../images/profilePic.png';
 import linkedinPic from '../images/signo-linkedin.png';
 import gitPic from '../images/logotipo-de-github.png';
 import instaPic from '../images/instagram.png';
-import cv from '../images/Zigaran_Elias-CV.pdf';
+import cv from '../images/CV-Zigaran.pdf';
 
 class Perfil extends Component {
     render() {
