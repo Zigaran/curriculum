@@ -1,34 +1,34 @@
 {
   "files": {
-    "main.css": "/curriculum/static/css/main.a8554614.chunk.css",
-    "main.js": "/curriculum/static/js/main.1c7eab39.chunk.js",
-    "main.js.map": "/curriculum/static/js/main.1c7eab39.chunk.js.map",
+    "main.css": "/curriculum/static/css/main.03d41fab.chunk.css",
+    "main.js": "/curriculum/static/js/main.85623a32.chunk.js",
+    "main.js.map": "/curriculum/static/js/main.85623a32.chunk.js.map",
     "runtime-main.js": "/curriculum/static/js/runtime-main.4e046246.js",
     "runtime-main.js.map": "/curriculum/static/js/runtime-main.4e046246.js.map",
     "static/css/2.c0e46410.chunk.css": "/curriculum/static/css/2.c0e46410.chunk.css",
-    "static/js/2.5be5b6f2.chunk.js": "/curriculum/static/js/2.5be5b6f2.chunk.js",
-    "static/js/2.5be5b6f2.chunk.js.map": "/curriculum/static/js/2.5be5b6f2.chunk.js.map",
+    "static/js/2.beb92663.chunk.js": "/curriculum/static/js/2.beb92663.chunk.js",
+    "static/js/2.beb92663.chunk.js.map": "/curriculum/static/js/2.beb92663.chunk.js.map",
     "index.html": "/curriculum/index.html",
-    "precache-manifest.560ab2fb4f0380270cce87f0761b6f32.js": "/curriculum/precache-manifest.560ab2fb4f0380270cce87f0761b6f32.js",
+    "precache-manifest.f16176d43504eafe34a065db9e905a7d.js": "/curriculum/precache-manifest.f16176d43504eafe34a065db9e905a7d.js",
     "service-worker.js": "/curriculum/service-worker.js",
     "static/css/2.c0e46410.chunk.css.map": "/curriculum/static/css/2.c0e46410.chunk.css.map",
-    "static/css/main.a8554614.chunk.css.map": "/curriculum/static/css/main.a8554614.chunk.css.map",
-    "static/js/2.5be5b6f2.chunk.js.LICENSE.txt": "/curriculum/static/js/2.5be5b6f2.chunk.js.LICENSE.txt",
+    "static/css/main.03d41fab.chunk.css.map": "/curriculum/static/css/main.03d41fab.chunk.css.map",
+    "static/js/2.beb92663.chunk.js.LICENSE.txt": "/curriculum/static/js/2.beb92663.chunk.js.LICENSE.txt",
+    "static/media/CV-Zigaran.pdf": "/curriculum/static/media/CV-Zigaran.4a727cff.pdf",
     "static/media/SimonSays.png": "/curriculum/static/media/SimonSays.c3183123.png",
     "static/media/Task-Manager.png": "/curriculum/static/media/Task-Manager.5ae9636c.png",
     "static/media/Thailand.png": "/curriculum/static/media/Thailand.804c1ac7.png",
-    "static/media/Zigaran_Elias-CV.pdf": "/curriculum/static/media/Zigaran_Elias-CV.71032ea4.pdf",
     "static/media/instagram.png": "/curriculum/static/media/instagram.03f20376.png",
     "static/media/logotipo-de-github.png": "/curriculum/static/media/logotipo-de-github.93ab66b0.png",
-    "static/media/Offtopic.css": "/curriculum/static/media/planeX.5882fa3d.png",
+    "static/media/Offtopic.css": "/curriculum/static/media/planeY.34028eea.png",
     "static/media/profilePic.png": "/curriculum/static/media/profilePic.62828906.png",
     "static/media/thai-square.png": "/curriculum/static/media/thai-square.075750fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4e046246.js",
     "static/css/2.c0e46410.chunk.css",
-    "static/js/2.5be5b6f2.chunk.js",
-    "static/css/main.a8554614.chunk.css",
-    "static/js/main.1c7eab39.chunk.js"
+    "static/js/2.beb92663.chunk.js",
+    "static/css/main.03d41fab.chunk.css",
+    "static/js/main.85623a32.chunk.js"
   ]
 }
