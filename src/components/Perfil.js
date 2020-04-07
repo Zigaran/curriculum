@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Perfil.css";
-import profilePic from '../images/profilePic.png';
+import profilePic from '../images/ProfileImg.png';
 import linkedinPic from '../images/signo-linkedin.png';
 import gitPic from '../images/logotipo-de-github.png';
 import instaPic from '../images/instagram.png';

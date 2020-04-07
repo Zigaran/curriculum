@@ -126,6 +126,7 @@ export default class YourApp extends Component {
           <Offtopic />
         </div>
 
+        {/* FIN SECCION "OFFTOPIC" */}
       </div >
     );
   }
