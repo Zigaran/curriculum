@@ -5,6 +5,10 @@
     text-shadow: 2px 2px 5px black;
 }
 
+.h6{
+line-height: 24px;
+}
+
 .aboutDesc {
     display:flex;
     flex-direction: column;
@@ -32,7 +36,7 @@ padding: 20px;
 .box-data{
     display: flex;
     flex-direction: row;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .box-data-whitout-pad {

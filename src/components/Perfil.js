@@ -25,15 +25,15 @@ class Perfil extends Component {
                 </a>
 
                 <div className="socialNetworks">
-                    <a href="https://www.linkedin.com/in/zigaran/" target="_blank">
+                    <a href="https://www.linkedin.com/in/zigaran/" target="_blank" rel="noopener noreferrer">
                         <img className="social-icons" src={linkedinPic} alt="LinkedIn" />
                     </a>
 
-                    <a href="https://github.com/Zigaran" target="_blank">
+                    <a href="https://github.com/Zigaran" target="_blank" rel="noopener noreferrer">
                         <img className="social-icons" src={gitPic} alt="Github" />
                     </a>
 
-                    <a href="https://www.instagram.com/eliasnziga/" target="_blank">
+                    <a href="https://www.instagram.com/eliasnziga/" target="_blank" rel="noopener noreferrer">
                         <img className="social-icons" src={instaPic} alt="Instagram" />
                     </a>
 

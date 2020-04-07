@@ -41,7 +41,7 @@ class NavBar extends Component {
               <Link activeClass="active" to="portfolio" spy={true} smooth={true} offset={-130} duration={2300} className="nav-link" >Portfolio</Link>
             </li>
             <li className="nav-item">
-              <Link activeClass="active" to="offTopic" spy={true} smooth={true} offset={0} duration={2350} className="nav-link" >Off-Topic</Link>
+              <Link activeClass="active" to="offTopic" spy={true} smooth={true} offset={-170} duration={2350} className="nav-link" >Off-Topic</Link>
             </li>
             <li className="nav-item">
               <Link activeClass="active" to="contact" spy={true} smooth={true} offset={-70} duration={1000} className="nav-link" >Contact</Link>

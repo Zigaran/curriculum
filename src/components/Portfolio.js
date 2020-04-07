@@ -12,7 +12,7 @@ class Portfolio extends Component {
                 <div className="row-or-column">
 
                     <div className="box-image m-right" data-aos="zoom-in" data-aos-offset="150" data-aos-duration="1000">
-                        <img className="image" src={Tasks} />
+                        <img className="image" src={Tasks} alt="" />
 
                         <div className="overlay">
                             <div className="text">
@@ -23,7 +23,7 @@ class Portfolio extends Component {
                     </div>
 
                     <div className="box-image" data-aos="zoom-in" data-aos-offset="150" data-aos-duration="1000">
-                        <img className="image" src={Simon} />
+                        <img className="image" src={Simon} alt="" />
                         <div className="overlay">
                             <div className="text">
                                 <h5 className="title">SIMON SAYS</h5>
@@ -35,8 +35,8 @@ class Portfolio extends Component {
                 </div>
 
                 <div className="box-image m-top" data-aos="zoom-in" data-aos-offset="150" data-aos-duration="1000">
-                    <img className="image display-rectangle" src={Thai} />
-                    <img className="image display-square" src={ThaiSquare} />
+                    <img className="image display-rectangle" src={Thai} alt="" />
+                    <img className="image display-square" src={ThaiSquare} alt="" />
                     <div className="overlay over-width" >
                         <div className="text">
                             <h5 className="title">THAILAND TOURISM</h5>

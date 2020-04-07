@@ -7,16 +7,16 @@ class Education extends Component {
         return (
             <div className="about">
                 <div className="rspnsv width">
-                    <a className="bold">High School - Polymodal</a>
-                    <a className="bold">Humanities and Social Science Modality</a>
-                    <a className="">Private Educational Establishment</a>
-                    <a className="">Juan Enrique Dring - Formosa, Argentina 2014</a>
+                    <h6 className="bold">High School - Polymodal</h6>
+                    <h6 className="bold">Humanities and Social Science Modality</h6>
+                    <h6 className="">Private Educational Establishment</h6>
+                    <h6 className="">Juan Enrique Dring - Formosa, Argentina 2014</h6>
                 </div>
 
                 <div className="rspnsv width">
-                    <a className="bold">Information System Engineering</a>
-                    <a className="">Universidad Tecnologica Nacional - FRRe</a>
-                    <a className="">Resistencia, Chaco 2015 - Present</a>
+                    <h6 className="bold">Information System Engineering</h6>
+                    <h6 className="">Universidad Tecnologica Nacional - FRRe</h6>
+                    <h6 className="">Resistencia, Chaco 2015 - Present</h6>
                 </div>
             </div >
         );

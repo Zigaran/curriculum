@@ -36,7 +36,7 @@ class Offtopic extends Component {
                 <div className="offtopic-container">
                     <div className="offtopic-desc pad-block">
                         <h4 className="title">Little story</h4>
-                        <a>In my childhood i liked videogames, photo and video editing. So i decided combine them.
+                        <h6 className="h6">In my childhood i liked videogames, photo and video editing. So i decided combine them.
                             <br />
                             <br />
                             Let me show you a little video so you know what i'm talking about.
@@ -47,7 +47,7 @@ class Offtopic extends Component {
                             <br />
                             I chose that name because i consider myself an orderer person, and 'Simetrik'
                             is an allusion of simetric. Just child stuff haha.
-                        </a>
+                        </h6>
                     </div>
                     <ReactPlayer className="youtubeVideo" url="https://www.youtube.com/watch?v=q6yRA6U0Y_0" controls={true} />
                 </div>

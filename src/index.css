@@ -6,6 +6,10 @@ body {
   background-color: #202020;
 }
 
+h6 {
+  line-height: 15px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
