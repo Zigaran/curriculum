@@ -1,0 +1,28 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    color: #D1D1D1; 
+    text-shadow: 0px 0px 5px black,
+    0px 0px 15px black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer-img1 {
+    height: 33px;
+    width: 33px;
+    margin-bottom: 2px;
+}
+
+.footer-img2 {
+    margin-right: 5px;
+    height: 28px;
+    width: 28px;
+}
+
+.footer-img3 {
+    height: 27.5px;
+    width: 27.5px;
+}
+

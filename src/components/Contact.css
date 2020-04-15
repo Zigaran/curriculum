@@ -1,0 +1,13 @@
+.contact-display {
+    text-align: center;
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.39);
+    font-weight: bold;
+}
+
+.btn {
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.form-control {
+    max-height: 180px;
+}

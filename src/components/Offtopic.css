@@ -2,8 +2,7 @@
     background: url('../images/planeY.png');
     background-repeat: no-repeat;
     background-size: contain;
-    /* background-attachment: fixed; */
-    height: 800px;
+    padding-bottom: 150px;
     text-shadow: 2px 2px 5px black;
 }
 
