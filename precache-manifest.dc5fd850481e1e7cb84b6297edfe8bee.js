@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dea62415445b7c90bc1c98897b6dc8a0",
+    "revision": "dfd326e4d4a12fc0fcba5d6e61db40df",
     "url": "/curriculum/index.html"
   },
   {
-    "revision": "b2235b6fdc98f63aa3c5",
+    "revision": "1d8781fc93b3ae4031a2",
     "url": "/curriculum/static/css/2.c0e46410.chunk.css"
   },
   {
-    "revision": "cf47d07faa8baa6c00b0",
-    "url": "/curriculum/static/css/main.33da9994.chunk.css"
+    "revision": "bfdb517d509572c3753a",
+    "url": "/curriculum/static/css/main.d5710ba0.chunk.css"
   },
   {
-    "revision": "b2235b6fdc98f63aa3c5",
-    "url": "/curriculum/static/js/2.beb92663.chunk.js"
+    "revision": "1d8781fc93b3ae4031a2",
+    "url": "/curriculum/static/js/2.fd38ed12.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/curriculum/static/js/2.beb92663.chunk.js.LICENSE.txt"
+    "url": "/curriculum/static/js/2.fd38ed12.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf47d07faa8baa6c00b0",
-    "url": "/curriculum/static/js/main.a9b90af6.chunk.js"
+    "revision": "bfdb517d509572c3753a",
+    "url": "/curriculum/static/js/main.b0c4eec4.chunk.js"
   },
   {
     "revision": "c4760d44694e62a78808",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculum/static/media/ProfileImg.caae3d84.png"
   },
   {
+    "revision": "04557c1b0b790482dafb1bf4e082b69e",
+    "url": "/curriculum/static/media/React.04557c1b.png"
+  },
+  {
     "revision": "c31831239c0b46e9e5e2d8fd663389d8",
     "url": "/curriculum/static/media/SimonSays.c3183123.png"
   },
@@ -48,12 +52,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculum/static/media/Thailand.804c1ac7.png"
   },
   {
+    "revision": "10550ee86b47ea33b21c4df8c6a053e8",
+    "url": "/curriculum/static/media/css.10550ee8.png"
+  },
+  {
+    "revision": "d1f26ea5ae2f0458bfa69227efd6268c",
+    "url": "/curriculum/static/media/html.d1f26ea5.png"
+  },
+  {
     "revision": "03f203769fd5a235846c792ee9e5ecbd",
     "url": "/curriculum/static/media/instagram.03f20376.png"
   },
   {
     "revision": "93ab66b05386cdabf908a991a3e5d515",
     "url": "/curriculum/static/media/logotipo-de-github.93ab66b0.png"
+  },
+  {
+    "revision": "45e8310ade83c9067d63864d9f8391b1",
+    "url": "/curriculum/static/media/mapa.45e8310a.png"
   },
   {
     "revision": "34028eead0de8ec04da179b7ee7bd1e9",
