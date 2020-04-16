@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './Contact.css';
 import axios from 'axios';
+import swal from 'sweetalert';
 
 class Contact extends Component {
     constructor(props) {
@@ -20,11 +21,10 @@ class Contact extends Component {
             data: this.state
         }).then((response) => {
             if (response.data.status === 'success') {
-                alert("Message Sent.");
+                swal("Message Sent !", "", "success");
                 this.resetForm()
             } else if (response.data.status === 'fail') {
-                alert(`Message failed to send.`);
-                console.log(response);
+                swal("Message failed to send!", "", "error");
             }
         })
     }
