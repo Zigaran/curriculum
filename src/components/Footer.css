@@ -7,6 +7,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-right: 20px;
 }
 
 .footer-img1 {
@@ -16,13 +17,14 @@
 }
 
 .footer-img2 {
+    margin-left: 5px;
     margin-right: 5px;
     height: 28px;
     width: 28px;
 }
 
 .footer-img3 {
-    height: 27.5px;
-    width: 27.5px;
+    height: 45px;
+    width: 45px;
 }
 

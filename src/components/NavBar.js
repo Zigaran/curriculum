@@ -29,7 +29,7 @@ class NavBar extends Component {
           <ul className="navbar-nav">
 
             <li className="nav-item">
-              <Link activeClass="active" to="about" spy={true} smooth={true} offset={-180} duration={1500} className="nav-link" >About</Link>
+              <Link activeClass="active" to="about" spy={true} smooth={true} offset={-180} duration={1500} className="nav-link" >About Me</Link>
             </li>
             <li className="nav-item">
               <Link activeClass="active" to="education" spy={true} smooth={true} offset={-180} duration={1800} className="nav-link" >Education</Link>

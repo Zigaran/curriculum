@@ -13,7 +13,7 @@ class About extends Component {
             <div className="about">
                 <div className="aboutDesc paddingDescBlock">
                     <h4 className="title">
-                        About
+                        About Me
                     </h4>
                     <h6 className="h6">
                         Hello! I am Elias. Engineering student, Frontend Developer and Pianist in free times. <br /> <br />
