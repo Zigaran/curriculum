@@ -17,7 +17,7 @@ class Contact extends Component {
         e.preventDefault();
         axios({
             method: "POST",
-            url: '',
+            url: 'https://mailbox-heroku.herokuapp.com/',
             data: this.state
         }).then((response) => {
             if (response.data.status === 'success') {
