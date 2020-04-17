@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5951d0ed8525d5cd12ae2e616c297d8",
+    "revision": "c84174c32050c994c7239a31abc7b755",
     "url": "/curriculum/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculum/static/css/2.c0e46410.chunk.css"
   },
   {
-    "revision": "efdcd722f8cf7b4c3fda",
+    "revision": "cd5b3debf54b977cb2d7",
     "url": "/curriculum/static/css/main.10bff57e.chunk.css"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculum/static/js/2.285f1765.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efdcd722f8cf7b4c3fda",
-    "url": "/curriculum/static/js/main.75cb859f.chunk.js"
+    "revision": "cd5b3debf54b977cb2d7",
+    "url": "/curriculum/static/js/main.256ac76f.chunk.js"
   },
   {
     "revision": "c4760d44694e62a78808",
     "url": "/curriculum/static/js/runtime-main.4e046246.js"
-  },
-  {
-    "revision": "4a727cff04575e09c7bf2d73b715f2cb",
-    "url": "/curriculum/static/media/CV-Zigaran.4a727cff.pdf"
   },
   {
     "revision": "caae3d846b6894829f52ae84b3b5742c",
@@ -50,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "804c1ac76855cf8a9441380bdbf25ccc",
     "url": "/curriculum/static/media/Thailand.804c1ac7.png"
+  },
+  {
+    "revision": "71032ea4ee655c74f1f081af8d222c92",
+    "url": "/curriculum/static/media/Zigaran_Elias-CV.71032ea4.pdf"
   },
   {
     "revision": "03f203769fd5a235846c792ee9e5ecbd",
