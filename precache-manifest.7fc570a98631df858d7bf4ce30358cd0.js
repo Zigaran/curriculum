@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90ecbfa71c9c6ca3560023c529237497",
+    "revision": "a5951d0ed8525d5cd12ae2e616c297d8",
     "url": "/curriculum/index.html"
   },
   {
-    "revision": "7109b1bbb8a8afc94e5d",
+    "revision": "74060cbab76ae9ba5022",
     "url": "/curriculum/static/css/2.c0e46410.chunk.css"
   },
   {
-    "revision": "42c51f4ba573ece17bc3",
-    "url": "/curriculum/static/css/main.d5710ba0.chunk.css"
+    "revision": "efdcd722f8cf7b4c3fda",
+    "url": "/curriculum/static/css/main.10bff57e.chunk.css"
   },
   {
-    "revision": "7109b1bbb8a8afc94e5d",
-    "url": "/curriculum/static/js/2.52c616fb.chunk.js"
+    "revision": "74060cbab76ae9ba5022",
+    "url": "/curriculum/static/js/2.285f1765.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/curriculum/static/js/2.52c616fb.chunk.js.LICENSE.txt"
+    "url": "/curriculum/static/js/2.285f1765.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42c51f4ba573ece17bc3",
-    "url": "/curriculum/static/js/main.9c3529c0.chunk.js"
+    "revision": "efdcd722f8cf7b4c3fda",
+    "url": "/curriculum/static/js/main.75cb859f.chunk.js"
   },
   {
     "revision": "c4760d44694e62a78808",
@@ -52,14 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curriculum/static/media/Thailand.804c1ac7.png"
   },
   {
-    "revision": "10550ee86b47ea33b21c4df8c6a053e8",
-    "url": "/curriculum/static/media/css.10550ee8.png"
-  },
-  {
-    "revision": "d1f26ea5ae2f0458bfa69227efd6268c",
-    "url": "/curriculum/static/media/html.d1f26ea5.png"
-  },
-  {
     "revision": "03f203769fd5a235846c792ee9e5ecbd",
     "url": "/curriculum/static/media/instagram.03f20376.png"
   },
@@ -70,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "45e8310ade83c9067d63864d9f8391b1",
     "url": "/curriculum/static/media/mapa.45e8310a.png"
+  },
+  {
+    "revision": "3336a27f4477aad6717e0fd6a9634f49",
+    "url": "/curriculum/static/media/node.3336a27f.png"
   },
   {
     "revision": "34028eead0de8ec04da179b7ee7bd1e9",
